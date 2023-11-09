@@ -1,0 +1,815 @@
+""
+  Le Noirmont
+  Vevey
+  Parsonz
+  Fürstenau
+  Bitsch
+ Isenthal
+  Gudo
+  Bivio
+  Vissoie
+  Breil/Brigels
+  Coglio
+  Fideris
+  Blatten (Lötschen)
+  Spinas
+  Le Pâquier
+  Hospental
+  Couvet
+ Klosters-Serneus
+  Davos Clavadel
+  Schangnau
+  Gebenstorf
+  Horboden
+  Gimmelwald
+  Vella
+  Innereriz
+  Ronchini
+  Le Châble
+  Guarda
+  Rigi Kulm
+ 0 Brusimpiano VA
+  Willerzell
+  Medel (Lucmagn)
+  Madulain
+  Uznach
+  Oberägeri
+  Gasenried
+  Marbach
+  Nendeln
+  Montfaucon
+  La Chaux-de-Fonds
+ 
+ Surses
+  Magglingen/Macolin
+  Villars-sur-Ollon
+  Ruis
+  Lavin
+  Sta. Maria
+  Kerns
+  Vrin
+  Hasle
+  Vals
+  Malvaglia
+  Chailly
+  Bettwil
+  Faulensee
+ Bosco Gurin
+  Matt
+  La Praz
+  Bregaglia
+  Stels
+  Obermutten
+  Schwyz
+  Bever
+  Biel
+  Buochs
+  Oberwil im Simmental
+  Dallenwil
+  Crassier
+ Rougemont
+  Klosters Platz
+  Sils im Domleschg
+  Grimentz
+  Rueras
+ Rothwald
+  Villeneuve
+  Montreux
+  Obergesteln
+  Malans
+  Juf
+  Brigerbad
+  Santa Maria Val Müstair
+  Versegères
+  Rigi Kaltbad
+  Zäziwil
+  Hinterrhein
+ 0 Goumois
+ Brienz
+  Les Marécottes
+  Kandersteg
+ Diemtigen
+  Ruswil
+  Unterkulm
+  Nendaz
+  villaz
+  Bosco Gurin
+  Lütisburg
+  Zweisimmen
+  Meiringen
+  Noville
+ Sion
+  Mosnang
+  Fribourg
+  Essertines-sur-Rolle
+  Suraua
+  Obergoms VS
+  Sigriswil
+  Locarno
+  Alterswil
+  Neckertal
+  Crana
+  Giswil
+  Chessel
+  Sigigen
+  Visperterminen
+  Romainmôtier-Envy
+  Grandson
+  Avry-devant-Pont
+  Vernamiège
+  Gingins
+  Eggiwil
+  Brail
+  Malters
+  Turgi
+  Cavagnago
+ Schwyz
+  Samnaun Laret
+  Ganterschwil
+ Hasliberg
+  Les Ponts-de-Martel
+  Melchtal
+  Matten (St. Stephan)
+  Mogelsberg
+  Corseaux
+  Oberhofen am Thunersee
+  Lauenen
+  Saanenmöser
+  Les Charbonnières
+  Quarten
+  Rickenbach
+  Guttet-Feschel
+  Salvan
+  Chalais
+  Bonaduz
+  Grüsch
+  Breil-Brigels
+  Bosco/Gurin
+  Marly
+  Sainte-Croix
+  Aeschi bei Spiez
+  Rosswald
+  Thun
+ Anniviers
+  Prato (Leventina)
+  Vex
+  Spiringen
+  Menziken
+  Saint-Luc
+  Filisur
+  Stans
+  Gerra (Verzasca)
+  Jenaz
+  Brione (Verzasca)
+  Sundlauenen
+  Vernayaz
+  Moléson-Village
+  Romanel-sur-Morges
+  Forst-Längenbühl
+  Baulmes
+  Attalens
+ Bourg-Saint-Pierre
+  Gsteig
+  Schaan
+  Vouvry
+  La Ferrière
+  La Côte-aux-Fées
+ Val-d'Illiez
+ 0 Tubre BZ
+ 1 Bulle
+  Rüschegg
+  Surava
+  Mont-Soleil
+  Muri
+  Hasliberg
+  Urmein
+  Verbier
+ Malvaglia
+  Dürnten
+  Neuchâtel
+  Collons
+  Mürren
+  Fidaz
+  Fuldera
+  Montcherand
+  Gunten
+  Braunwald
+  Schellenberg
+  Bratsch
+  Rigi Scheidegg
+  Goldingen
+  Altdorf
+  Muotathal
+  Boltigen
+  Seewen
+  Escholzmatt
+  Wiler (Lötschen)
+  Zinal
+  Thielle
+  Saillon
+  Obbürgen
+  Tschiertschen-Praden
+  Termen
+  Wallbach
+  Minusio
+  Miex
+  Sentier
+  Thusis
+  Andiast
+  Saint-Ursanne
+  Rabius
+ Vals
+  Steg
+  Zermatt
+  Laax
+  L'Étivaz
+  Arolla
+ Staldenried
+  Niederscherli
+  Goldswil bei Interlaken
+  La Rippe
+  Les Collons
+  Flumserberg Tannenheim
+  Leuk
+  Les Masses
+  Törbel
+  Arzier-Le Muids
+  Collina d'Oro
+  Vitznau
+  Gruyères
+  Scuol
+  Staldenried
+  Jenins
+  Muriaux
+  Oey
+  Marin-Epagnier
+ Reichenbach im Kandertal
+  Prés-d'Orvin
+  Buchs
+  Lenk
+  Niedermuhlern
+  Flumserberg
+  Vugelles-La Mothe
+  Chapella
+  Evolène
+  Ormont-Dessous
+  Bagnes
+  Alpnachstad
+  Lens
+  Saint-Imier
+ Ollon
+  Raron
+  Fieschertal
+  Merligen
+  Grandfontaine
+  Gumefens
+  Jongny
+  Kriens
+ Orsières
+ Oberwil
+  Sumiswald
+  Signau
+  Seelisberg
+  Villars-sur-Glâne
+  La Punt-Chamues-ch
+  Cormoret
+  Sutz
+  Affoltern im Emmental
+  Kiental BE
+  Lax
+  Coinsins
+  Aeschiried
+  Emdthal
+  Cressier
+  Montezillon
+ 0 Fournet-Blancheroche
+  Wildhaus
+  Torgon
+  Gadmen
+ Bedretto
+  Künten
+  Crésuz
+  Chamoson
+  Sarnen
+  Birrwil
+  Le Mouret
+  Eyholz
+  Samnaun
+  S-chanf
+  Nesslau-Krummenau
+  Samnaun Dorf
+ Lucerne
+  Yverdon-les-Bains
+  Schwarzsee-Bad
+  Montbovon
+  Hasliberg Reuti
+  Plaffeien
+  Obersaxen
+ Blatten bei Naters
+ Seewis im Prättigau
+  Unterseen
+  St Moritz
+ Grimentz
+  St. Gallenkappel
+  Sils Baselgia
+  Leissigen
+  Wengen BE
+  Vallorbe
+  Werdenberg
+  Küssnacht
+  Château-d’Œx
+  Röthenbach im Emmental
+  Rothenthurm
+ Wiler
+  Müstair
+  Quinto
+  Riddes
+  Coglio (Vallemaggia)
+ Wengen 
+  Trub
+  Aproz (Nendaz
+  Beckenried
+  Riederalp
+  Linthal
+  Luzern
+  Marécottes
+  Veytaux
+  Les Bois
+ Grindelwald
+  Rueun
+  Schönengrund
+  Chéserex
+  Adelboden
+ Hinterrhein
+  Anzère
+  Schiers
+ Glarus Süd
+  Vulpera
+  Lohn
+  Wald
+  Uetendorf
+  Yvonand
+  Lungern
+  Châtel-Saint-Denis
+  Sâles
+  Fontanezier
+  Nesslau
+  Silvaplana
+  Pany
+  Leytron
+  Val-de-Charmey
+  La Punt Chamuses
+  Lessoc
+  Wohlen bei Bern
+  Les Haudères
+  Mathod
+ Rosswald
+  Surcuolm
+  Savognin
+  Zernez
+  Emmetten
+  Triesen
+  Reichenbach im Kandertal
+  Kaiseraugst
+  Celerina/Schlarigna
+  Hellbühl
+  Saint-Cergue
+  Obersaxen Mundaun
+  Flums
+  Horw
+  Gampel-Bratsch
+  Ballens
+  Morlon
+  Alt St. Johann
+  Verdabbio
+  Cevio
+  Ried (Muotathal)
+ Obersaxen
+  Piotta
+  Pagig
+ Beckenried
+  Saignelégier
+  Granges-Paccot
+  Gluringen
+  Litzirüti
+  Vergeletto
+  Sörenberg
+  Chavannes-de-Bogis
+  Schwarzenburg
+  Ovronnaz
+  Piora
+  Andeer
+  Brot-Dessous
+  Oberems
+  Ilanz
+  Ennetbühl
+  Les Evouettes
+  Vuiteboeuf
+  Cortébert
+  Hemberg
+  Bulle
+  Obstalden
+  Juriens
+  Bürchen
+  Mesocco
+ Tujetsch
+  Iseltwald
+  Frutigen
+  St. Antönien
+  Moleson
+  Brunnen SZ
+ Hérémence
+  Birgisch
+  Stansstad
+  Langwies
+  Mosses
+  Donath
+  Noflen
+  Gryon
+  Leukerbad
+  Oberterzen
+  Meisterschwanden
+  Matten bei Interlaken
+  Anniviers
+  Steinen
+  Hergiswil
+  Arosa
+  Wattenwil
+  Klosters Dorf
+  Malix
+  Seengen
+ Saas-Grund
+  Nidfurn
+  Airolo
+  Yvorne
+ Mesocco
+  Veysonnaz
+  Urnäsch
+  Cavergno
+  Dorénaz
+  Mörigen
+  Corsier-sur-Vevey
+  Degersheim
+  Croy
+  Langnau im Emmental
+  Belalp
+  Amden
+  Haut-Intyamon
+  Wassen
+  Schönried
+  Sils-Segl Maria
+  plaun d lej
+  Hofstetten bei Brienz
+  Gebertingen
+  Casti-Wergenstein
+  Medels im Rheinwald
+  Churwalden
+  Chur
+  Münster
+  Fafleralp
+  Auenstein
+  Goumois
+  Enges
+  Andermatt
+  St. Antoni
+  Schwanden (Sigriswil)
+  Ebnat-Kappel
+  Bellwald
+ Scuol
+  Gwatt
+  Tinizong
+  Furna
+  Saas-Grund
+  Rennaz
+  Grächen
+  Sobrio
+  Stalden
+  Fontainemelon
+  Brügg
+  Flims
+  Villorsonnens
+  Münster-Geschinen
+  Kehrsatz
+  Morgarten
+  Les Reussilles
+  Lü
+  Vaulruz
+  Beatenberg
+  Villarvolard
+  Gerzensee
+  La Sage
+ Bullet
+  Murg
+  Krummenau
+  Champex-Lac
+ Finhaut
+  Saanen
+  Saint-Légier-La Chiésaz
+  Vicosoprano
+  Brünig
+  Hondrich
+  Schwarzsee
+  Visp
+  Albinen
+  Tramelan
+  Les Allières
+  Lostallo
+  Ascona
+  Muralto
+  Isleten
+  Chironico
+  Luzein
+  Betten
+  Medel
+  Boudevilliers
+  Olivone
+  Blatten
+  Bönigen
+  Pragg
+ Marbach
+  Cresciano
+  Bergün/Bravuogn
+  Sattel
+  Attinghausen
+  Saas-Almagell
+  Le Locle
+  Mase
+  Lieffrens
+ 1 Crans-Montana
+  Guggisberg
+  Habkern
+  Siebnen
+  Vue-des-Alpes
+  Tschappina
+  Ritzingen
+  Isérables
+  Neu St. Johann
+  Gstaad
+  Buttes
+  Zuoz
+  Innertkirchen
+  Lützelflüh
+  Quinten
+  Küblis
+  Splügen
+  Preda
+  Bedretto
+  Grosshöchstetten
+  Sonceboz-Sombeval
+  Unterwasser
+  Nufenen
+  Interlaken
+  Hérémence
+  Glion
+  Bourg-Saint-Pierre
+  Le Brassus
+  Stampa
+  Orsières
+  Ruggell
+  Parpan
+  Aigle
+  Stoos
+  Chandolin
+  Rüti bei Riggisberg
+  Niederglatt
+  La Roche
+  Kippel
+  Rüderswil
+  Unteriberg
+  Ardez
+  Weissenburg
+  Oberiberg
+  Malbun
+  Waldstatt
+  Les Granges
+  Cunter
+  La Sagne
+  Leysin
+  Les Crosets
+  Mathon
+  Saint-George
+  Heiligenschwendi
+  Cumpadials
+  Uzwil
+  St. Martin
+  Mörel-Filet
+  Unterbäch
+  La Tanne/Tramelan
+  Morschach
+  Filzbach
+  Sur
+  Eischoll
+ Bad Ragaz
+  Surses
+  Engelberg
+  Nax
+  Sonvilier
+  San Carlo
+  Blatten bei Naters
+ Saas-Almagell
+ Naters
+  Reckingen
+  Bevaix
+  Schwanden
+  La Tour-de-Peilz
+ Val Müstair
+  Sorens
+  Arth
+  Linescio
+  Wiesen
+  Les Hauts-Geneveys
+  Vuissens
+  Blonay
+  Ascharina
+  Disentis
+  Ormont-Dessus
+ Auberson
+  Meierskappel
+  Duillier
+  Bramois
+  Martigny
+  Zeneggen
+  Bogis-Bossey
+  Sufers
+ Quarten
+  Entlebuch
+  Ringgenberg
+  Ausserberg
+ Breil/Brigels
+  Turtmann
+  Chardonne
+  Péry-La Heutte
+  Davos Frauenkirch
+ Bisisthal
+  Hinwil
+  Lignerolle
+  Klöntal
+  Erlenbach im Simmental
+  Vercorin
+  Sierre
+  Ruschein
+  Valzeina
+ Bettmeralp
+ 1 Livigno SO
+  Avers
+  Kastanienbaum
+  Nidau
+  Erschmatt
+  Vaz/Obervaz
+  Brontallo
+  Schlossrued
+  St. Niklaus
+  Klosters-Serneus
+  Eschen
+  Les Breuleux
+  Thalkirch
+  Fleurier
+  Axalp
+  Brienz
+  Liddes
+  Im Fang
+  Ueberstorf
+  Spiez
+  Campo (Vallemaggia)
+  Les Diablerets
+  Ayer
+  Vaulion
+ Lauterbrunnen
+  Sils-Segl Baselgia
+  Casaccia
+  Abländschen
+  Tschiertschen
+  Cinuos-Chel
+  Bassins
+  Illgau
+  Samedan
+  Weesen
+  Ulrichen
+  L'Abbaye
+  Cama
+  Rossinière
+  Valbella
+  Paradiso
+  Val-d'Illiez
+ S-charl
+  Sils im Engadin/Segl
+  Herznach
+  Eriz
+  Naters
+  Leubringen
+  Schwellbrunn
+  Beinwil am See
+  Tschierv
+  Les Genevez
+  Someo
+  Hundwil
+  Poschiavo
+  Chippis
+  Rigi-Kaltbad
+  Blausee
+  Prangins
+  Sion
+ Val-de-Ruz
+  Orvin
+ Vex
+  Nyon
+  Bullet
+  Haute-Nendaz
+  Finhaut
+ Flums
+  Le Sépey
+ Herisau
+  Steffisburg
+  Seedorf
+  Saas-Fee
+  Les Geneveys-sur-Coffrane
+  Port-Valais
+  Hauteville
+  Gonten
+  Rougemont
+  Hasliberg Goldern
+  Saint-Jean
+  Riffenmatt
+  S. Bernardino
+  Ayent
+  Ernen
+  Erdesson
+  Nods
+  Sangernboden
+ Bregaglia
+ Zernez
+  Lugano
+  Lenzerheide
+  Les Rasses
+  Brig-Glis
+  Colombier
+  Schmerikon
+  Morgins
+  Crans-Montana
+  Le Chenit
+  Fex
+  Tujetsch
+  Vionnaz
+ Grächen
+  Glarus Süd
+Les Collons
+  Wattwil
+  Jaun
+  Maloja
+  Triesenberg
+ Saint-Luc
+  Grindelwald
+  Bürglen
+  Weggis
+  Fiesch
+  Maienfeld
+  Baar
+  Flims Dorf
+  Waltensburg
+  Davos Platz
+  Diemtigen
+  Solliat
+  Rüeggisberg
+  Bad Ragaz
+  Lumbrein
+  Oberwald
+  Unterschächen
+  Tavanasa
+  Trélex
+  St. Moritz
+  Krattigen
+  Vaduz
+  Ollon
+  Paccots
+  Bettmeralp
+  Champéry
+  Ballaigues
+  La Fouly
+  Mühlrüti
+  Saint-Léonard
+  Calanca
+  Landquart
+  Fanas
+  Simplon
+  Safien
+  Merlischachen
+  Gampel
+  Ennetbürgen
+  St. Peterzell
+  Segnas
+  Flüelen
+  Davos
+  Schaanwald
+ Bellwald
+ Tschappina
+  Gland
+  Susten
+  Gersau
+  Plasselb
+  Lantsch/Lenz
+  Wirzweli
+  Mayens-de-Chamoson
+  Lauterbrunnen
+  Pontresina
+  Bovernier
+  Saint-Cierges
