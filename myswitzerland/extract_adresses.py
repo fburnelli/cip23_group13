@@ -5,7 +5,7 @@ import csv
 formatted_adresses = []
 postal_codes_and_cities = []
 cities = []
-accomodations_file = 'accom_all.json'
+accomodations_file = '../data/accom_all.json'
 
 def list_to_csv(list_data,filename):
     with open(filename, 'w', newline='') as f:
