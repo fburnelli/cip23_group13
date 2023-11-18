@@ -124,7 +124,10 @@ if __name__ == "__main__":
    process = False
    for query in queries:
       print(query)
-      # looks like with too many request get an error HTTPSConnectionPool(host='www.intersportrent.ch', port=443): Max retries exceeded with url: /en/rent-shop/products/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7d32d9ed30>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))         
+      # looks like with too many request get an error HTTPSConnectionPool(host='www.intersportrent.ch', port=443):
+      #  Max retries exceeded with url: /en/rent-shop/products/ 
+      # (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7d32d9ed30>:
+      #  Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))         
       if process:
          location_gears = extract_gear_data(query)
          gears.extend(location_gears)
@@ -137,13 +140,6 @@ if __name__ == "__main__":
       writer.writeheader()
       writer.writerows(gears)
 
-# EXTARCT location and location orig  to do joi later
-#       rename *_stage1.csv
-# TRANSFORM  *_stage3.csv
-#      Clean so dont remove ????duplicates, spelling mistakes, unsuitable types, zero values, outliers, missing values, 
-#      incoherent entries, irrelevant extensions, e
-#      Enrich add 3 calculated fields
-# 
 # LOAD
 #       stage3 to maria db    
 #
