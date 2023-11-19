@@ -1,4 +1,5 @@
 import mechanicalsoup
+from bs4 import BeautifulSoup, NavigableString, Tag
 import csv
 import time 
 import os 
@@ -17,7 +18,7 @@ data_folder = "../Data"
 # location file
 locations_csv = os.path.join(data_folder, 'cip_snow_reports.csv')
 # gear files
-gears_csv = os.path.join(data_folder, 'gears_stage1.csv')
+gears_csv = os.path.join(data_folder, 'XYZgears_stage1.csv')
 
 
 #### Functions
@@ -37,8 +38,13 @@ def extract_gear_data(query):
    try:
       gears = [] # all gears for the query
 
-      browser = mechanicalsoup.StatefulBrowser()
-      browser.open(url)
+      try:
+         browser = mechanicalsoup.StatefulBrowser()
+         browser.open(url)
+      except Exception as e:
+         if type(e).__name__ == "ConnectionError":
+            return gears
+   
       # get the searchin critaria form
       browser.select_form('form[id="portal-search"]' )
     
@@ -54,8 +60,8 @@ def extract_gear_data(query):
       # Iterate each gear resulr
       results = browser.page.find(class_="row gy-4 product-grid")
    
-   
-      for result in results:
+      filtered_results = [result for result in results if not isinstance(result, NavigableString) and not isinstance(result, Tag) ]
+      for result in filtered_results :
          try:
             gear = query.copy()
             #gear name
@@ -77,12 +83,17 @@ def extract_gear_data(query):
             gear['price'] = price
             gears.append(gear.copy())
          except AttributeError as e:
-            pass
+            input(type(e).__name__)
          except Exception as e:
+            print(10)
+            input(type(e).__name__)
             print(e)
    except TypeError as e:
-      print(e)              
+      with open('no_shop.csv', 'a', newline='') as csvfile:
+         csvfile.write(f"""{query.get("location_town")}\n""")
    except Exception as e:
+      print(1000)
+      input(type(e).__name__)
       print(f"Exception type: {type(e).__name__}")
 
    return gears
@@ -121,7 +132,7 @@ if __name__ == "__main__":
 
    #Extract process
    gears = []
-   process = False
+   process = True
    for query in queries:
       print(query)
       # looks like with too many request get an error HTTPSConnectionPool(host='www.intersportrent.ch', port=443):
@@ -133,7 +144,7 @@ if __name__ == "__main__":
          gears.extend(location_gears)
       elif 'Rasses' in query.get('location'):
          process = True 
-   
+   print(gears)
    with open(gears_csv, 'w', newline='', encoding='utf-8') as file:
       fieldnames = gears[0].keys()
       writer = csv.DictWriter(file, fieldnames=fieldnames)
