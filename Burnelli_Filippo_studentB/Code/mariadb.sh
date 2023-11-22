@@ -1,0 +1,7 @@
+ sudo mariadb
+CREATE USER IF NOT EXISTS cip_user@localhost IDENTIFIED BY '<HERE THE PASS>';
+CREATE DATABASE CIP;
+USE CIP;
+GRANT ALL ON CIP.* TO cip_user@localhost WITH GRANT OPTION;
+FLUSH PRIVILEGES;
+SHOW GRANTS FOR 'cip_user'@localhost;
